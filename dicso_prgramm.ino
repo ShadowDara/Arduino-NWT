@@ -66,6 +66,11 @@ void refrain0() {
   //gespielt hat, wieder abgespielt werden kann
   delay(x);
 }
+
+// Music is by Github User robsoncouto
+// https://github.com/robsoncouto
+// https://github.com/robsoncouto/arduino-songs/tree/master
+
 void refrain1() {
   //Tetris Song
   Lcd.print("Tetris");
