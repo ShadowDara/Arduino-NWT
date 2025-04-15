@@ -1,3 +1,6 @@
 # Arduino NWT
  
-Hier ist die ganze Arduino Rotze aus NWT gespeichert lol
+Here are all the Arduino files i programmnend in school,
+feel free to use them
+
+:) Shadowdara
